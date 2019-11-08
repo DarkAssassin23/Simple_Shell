@@ -1,6 +1,6 @@
-# tsh shell
+# Simple shell
 
-This is a simple Unix shell program.
+This is a simple shell program meant to replicate the basics of a unix shell.
 
 About
 -------
